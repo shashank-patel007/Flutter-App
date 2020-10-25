@@ -1,0 +1,6 @@
+# Referenced at C:\Users\Shashank Patel\Desktop\QUIZ-APP-FLUTTER\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Shashank Patel\Desktop\QUIZ-APP-FLUTTER\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
+-keep class com.example.quiz_app.MainActivity { <init>(); }
+# Referenced at C:\Users\Shashank Patel\Desktop\QUIZ-APP-FLUTTER\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
